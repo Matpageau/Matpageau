@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matisse pageau</h1>
-- 🌱 I’m currently learning **Vue.js, React**
+- 🌱 I’m currently learning **Vue.js React**
 
 - 📫 How to reach me **matisse.pageau@hotmail.com**
 
